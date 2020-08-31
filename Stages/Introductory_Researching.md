@@ -2,7 +2,7 @@
 
 ---
 
-- press the [Join room](http://#/) to use the machins in here.
+- press the [Join room](http://#/) button to use the machins in this Stage.
 
 ## **Task 1 (Introduction)**
 
@@ -20,9 +20,9 @@ press the [completed](http://#/) button after reading.
 
 ---
 
-- **reading the artical on [Steganography](https://null-byte.wonderhowto.com/how-to/steganography-hide-secret-data-inside-image-audio-file-seconds-0180936/)**
+**reading the artical on [Steganography](https://null-byte.wonderhowto.com/how-to/steganography-hide-secret-data-inside-image-audio-file-seconds-0180936/)**
 
-_Tools in this artical:_
+**_Tools in this artical:_**
 
 ### steghide (used in linux)
 
@@ -52,19 +52,17 @@ you will need the password from the encryption procces.
 apt install steghide
 ```
 
-### reverse google image search
+### [Reverse google image search](https://images.google.com/)
 
-[link](https://images.google.com/)
+### Some more reading
 
-_Some more reading:_
+- [hide data in audio files](https://null-byte.wonderhowto.com/how-to/hacks-mr-robot-hide-data-audio-files-0164136/)
 
-- another [link](https://null-byte.wonderhowto.com/how-to/hacks-mr-robot-hide-data-audio-files-0164136/) - hide data in audio files
+- [How to hack forum accounts with password-stealing pictures.](https://null-byte.wonderhowto.com/how-to/hack-forum-accounts-with-password-stealing-pictures-0179953/)
 
-- another [link](https://null-byte.wonderhowto.com/how-to/hack-forum-accounts-with-password-stealing-pictures-0179953/) - How to hack forum accounts with password-stealing pictures.
+- [Need to go into it](https://0xrick.github.io/lists/stego/)
 
-- [forth link](https://0xrick.github.io/lists/stego/) - Need to go into it
-
-**Install the steghide tool (did not do it, need a linux machine):**
+### **Install the steghide tool (did not do it, need a linux machine):**
 
 ```bash
 apt install steghide

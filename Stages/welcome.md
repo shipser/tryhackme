@@ -21,7 +21,9 @@ Press ok on completed.
 ---
 
 ```markdown
-# Install OpenVPN and configure it by folowing [this link](https://tryhackme.com/connect?o=vpn). # Move to mac system instructions:
+# Install OpenVPN and configure it by folowing [this link](https://tryhackme.com/connect?o=vpn).
+
+# Move to mac system instructions:
 
 1. Download [My own Openvpn Config pack from this link](https://tryhackme.com/access)
 
@@ -47,9 +49,9 @@ Press ok on completed.
 ---
 
 Lets get you accessing your first machine!
-press the [Deploy](#) button.
+press the [Deploy](http://#) button.
 
-1. Go to your machines website (http://MACHINE_IP) - What is the flag text shown on the machines webpage?
+1. Go to your machines website ("http://MACHINE_IP") - What is the flag text shown on the machines webpage?
 
 ```txt
 connect to the vpn.
@@ -81,7 +83,7 @@ Don't forget to check out our [Pathways](https://tryhackme.com/paths) for a more
 1. Read the above and explore TryHackMe!
 
 ```txt
-No answer neede
+No answer needed
 ```
 
 press the Completed button.
