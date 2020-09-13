@@ -33,7 +33,7 @@ steghide extract -sf stegoFile -xf outputFile
 
 ---
 
-- **Usage:**
+### **Usage:**
 
 Go to this [Link](https://images.google.com/) using your browser.
 

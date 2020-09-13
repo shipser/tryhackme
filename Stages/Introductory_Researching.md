@@ -52,7 +52,7 @@ you will need the password from the encryption procces.
 apt install steghide
 ```
 
-### [Reverse google image search](https://images.google.com/)
+### Reverse google image search - [link](https://images.google.com/)
 
 ### Some more reading
 
